@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/homework1Day5/Main.java=UTF-8
+encoding//src/homework1Day5/business/concretes/AuthorizedUserManager.java=UTF-8
+encoding//src/homework1Day5/business/concretes/UserLoginManager.java=UTF-8
+encoding//src/homework1Day5/business/concretes/UserManager.java=UTF-8
+encoding//src/homework1Day5/core/EmailVerificationManager.java=UTF-8
+encoding//src/homework1Day5/core/ValidationManager.java=UTF-8
+encoding//src/homework1Day5/core/googleRegisterServiceAdaptor.java=UTF-8
+encoding//src/homework1Day5/dataAccess/concretes/HibernateUserDao.java=UTF-8
